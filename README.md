@@ -97,7 +97,7 @@ A personal website showcasing projects, experience and a passion for thoughtful 
 
 <div align="center">
 
-<a href="https://github.com/alexis-cgl?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alexis-cgl&show_icons=true&hide_border=true&include_all_commits=true&bg_color=151024&title_color=C084FC&text_color=EEDFFB&icon_color=C084FC&ring_color=A855F7" alt="Alexis's GitHub stats" width="56%"/></a>
+<a href="https://github.com/alexis-cgl?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=alexis-cgl&show_icons=true&hide_border=true&bg_color=151024&title_color=C084FC&text_color=EEDFFB&icon_color=C084FC&ring_color=A855F7" alt="Alexis's GitHub stats" width="56%"/></a>
 
 <br/>
 
