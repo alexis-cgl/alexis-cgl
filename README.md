@@ -76,28 +76,22 @@ I'm passionate about **cybersecurity, network & systems engineering, and softwar
 ![Git](https://img.shields.io/badge/Git-1A142A?style=for-the-badge&logo=git&logoColor=CDA7FF)
 ![Laravel](https://img.shields.io/badge/Laravel-1A142A?style=for-the-badge&logo=laravel&logoColor=CDA7FF)
 
-## <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-8B5CF6?style=flat-square&labelColor=181125" alt="03 / Featured projects" height="24"/>
+## <img src="https://img.shields.io/badge/03-PROJECT_SPOTLIGHT-8B5CF6?style=flat-square&labelColor=181125" alt="03 / Project spotlight" height="24"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/alexis-cgl/alexis-coniglio"><img src="./assets/portfolio.svg" alt="Alexis - Personal Portfolio" width="100%" /></a>
-<h3 align="center">Personal Portfolio</h3>
-<p align="center">A personal website showcasing projects, experience and a passion for thoughtful interface design.</p>
-<p align="center"><sub>HTML · CSS · Web Design</sub></p>
-<p align="center"><a href="https://github.com/alexis-cgl/alexis-coniglio"><b>VIEW REPOSITORY ↗</b></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/alexis-cgl/SAE23"><img src="./assets/mobility.svg" alt="FCS Mobilité project" width="100%" /></a>
-<h3 align="center">FCS Mobilité</h3>
-<p align="center">A collaborative mobility web platform built as a team project, connecting students and shared journeys.</p>
-<p align="center"><sub>Laravel · HTML/CSS · Collaborative Project</sub></p>
-<p align="center"><a href="https://github.com/alexis-cgl/SAE23"><b>VIEW REPOSITORY ↗</b></a></p>
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/alexis-cgl/alexis-coniglio"><img src="./assets/portfolio.svg" alt="Alexis - Personal Portfolio" width="62%" /></a>
 
-<div align="center"><sub>More projects, experiments and tools are on the way. ✦</sub></div>
+### Personal Portfolio
+
+A personal website showcasing projects, experience and a passion for thoughtful interface design.
+
+<sub>HTML · CSS · Web Design</sub>
+
+<a href="https://github.com/alexis-cgl/alexis-coniglio"><b>VIEW REPOSITORY ↗</b></a>
+
+<br/><br/>
+<sub>More projects, experiments and tools are on the way. ✦</sub>
+</div>
 
 ## <img src="https://img.shields.io/badge/04-GITHUB_ACTIVITY-8B5CF6?style=flat-square&labelColor=181125" alt="04 / GitHub activity" height="24"/>
 
