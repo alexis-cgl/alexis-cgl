@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/alexis-cgl?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-161020?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://github.com/alexis-cgl/alexis-coniglio"><img src="https://img.shields.io/badge/MY_PORTFOLIO-883ED9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://alexis-cgl.github.io/alexis-coniglio/index.html"><img src="https://img.shields.io/badge/MY_PORTFOLIO-883ED9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/badge/BASED_IN-FRANCE-291C40?style=for-the-badge&logo=googlemaps&logoColor=E2C4FF" alt="France"/>
 
 <br/><br/>
@@ -79,7 +79,7 @@ I'm passionate about **cybersecurity, network & systems engineering, and softwar
 ## <img src="https://img.shields.io/badge/03-PROJECT_SPOTLIGHT-8B5CF6?style=flat-square&labelColor=181125" alt="03 / Project spotlight" height="24"/>
 
 <div align="center">
-<a href="https://github.com/alexis-cgl/alexis-coniglio"><img src="./assets/portfolio.svg" alt="Alexis - Personal Portfolio" width="62%" /></a>
+<a href="https://alexis-cgl.github.io/alexis-coniglio/index.html"><img src="./assets/portfolio.svg" alt="Alexis - Personal Portfolio" width="62%" /></a>
 
 ### Personal Portfolio
 
@@ -87,7 +87,7 @@ A personal website showcasing projects, experience and a passion for thoughtful 
 
 <sub>HTML · CSS · Web Design</sub>
 
-<a href="https://github.com/alexis-cgl/alexis-coniglio"><b>VIEW REPOSITORY ↗</b></a>
+<a href="https://alexis-cgl.github.io/alexis-coniglio/index.html"><b>VISIT PORTFOLIO ↗</b></a>
 
 <br/><br/>
 <sub>More projects, experiments and tools are on the way. ✦</sub>
